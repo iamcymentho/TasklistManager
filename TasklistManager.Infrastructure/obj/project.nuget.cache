@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/tLheZb3c0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthew Cymentho\\Desktop\\TK\\TasklistManager\\TasklistManager.Infrastructure\\TasklistManager.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew Cymentho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Matthew Cymentho\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
